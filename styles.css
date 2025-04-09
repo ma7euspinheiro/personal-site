@@ -1,0 +1,22 @@
+.nav-link {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+.project:hover {
+  opacity: 75%;
+}
+
+.card-cover {
+  background-image: url("./images/mario.jpg");
+  background-size: contain;
+}
+
+.resume {
+    display: flex;
+    width: 100%;
+    justify-content: center;    
+}
